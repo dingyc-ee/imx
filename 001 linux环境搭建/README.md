@@ -89,6 +89,8 @@
 
     关闭预览模式：打开设置，输入`enable preview`，选择关闭预览。
 
+    支持USB U盘([参考链接](https://zhuanlan.zhihu.com/p/451966343))：`先关闭 vm，用文本编辑器打开 host vm 目录的 vmx 文件，将属性 usb.restrictions.defaultAllow 由 FALSE 修改为 TRUE，保存然后启动 vm 就正常了。`
+
 ## 更换壁纸
 
 ![壁纸](./src/El%20Capitan.jpg)
