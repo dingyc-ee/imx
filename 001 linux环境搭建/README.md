@@ -87,6 +87,8 @@
 
     禁止vscode一直提示版本更新：`运行菜单File中Preferences子菜单中选择Settings项，搜索update mode，将其设置为none。`
 
+    关闭预览模式：打开设置，输入`enable preview`，选择关闭预览。
+
 ## 更换壁纸
 
 ![壁纸](./src/El%20Capitan.jpg)
