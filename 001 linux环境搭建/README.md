@@ -81,7 +81,7 @@
 
     [参考链接](https://blog.csdn.net/ly869915532/article/details/136588163)
 
-    ubuntu 18.04支持的最新的为`code_1.85.2-1705561292_amd64.deb` [安装包](src/code_1.85.2-1705561292_amd64.deb)
+    ubuntu 18.04支持的最新的为`code_1.85.2-1705561292_amd64.deb` [安装包](./src/code_1.85.2-1705561292_amd64.deb)
 
     安装命令：`sudo dpkg -i code_1.85.2-1705561292_amd64.deb`
 
@@ -89,5 +89,4 @@
 
 ## 更换壁纸
 
-    [壁纸](src/El%20Capitan.jpg)
-
+![壁纸](./src/El%20Capitan.jpg)
