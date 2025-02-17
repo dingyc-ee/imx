@@ -28,10 +28,6 @@
 
 ### 安装
 
-+ 安装32位库
-
-    `sudo apt-get install lsb-core lib32stdc++6`
-
 + 创建安装位置的文件夹
 
     `sudo mkdir /usr/local/arm`
